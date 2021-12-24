@@ -1,3 +1,76 @@
-h1 {
-    color: red;
+@import "variables.scss";
+
+html {
+    background-color: $backgroundColor;
+    font-family: "Arial Light", "Helvetica Neue", sans-serif;
+}
+
+body {
+    margin: 0;
+}
+
+// All header attrs in the app need their own custom styling.
+h1, h2, h3, h4, h5, h6 {
+    font-weight: normal;
+    font-size: 1em;
+    -webkit-margin-before: 0;
+    -webkit-margin-after: 0;
+}
+
+p {
+    -webkit-margin-before: 0;
+    -webkit-margin-after: 0;
+}
+
+pre {
+    white-space: pre-wrap;
+}
+
+ul {
+    -webkit-margin-before: 0;
+    -webkit-margin-after: 0;
+    -webkit-margin-start: 0;
+    -webkit-margin-end: 0px;
+    -webkit-padding-start: 0;
+}
+
+li {
+    margin-bottom: 12px;
+}
+
+a {
+    color: $brandColorSecondary;
+    // text-decoration: none;
+
+    &:visited {
+        color: $brandColorSecondary;
+    }
+}
+
+.content-container {
+    width: 75%;
+    margin: 50px auto 100px;
+    color: $textColor;
+}
+
+.header-text {
+    text-align: center;
+    font-weight: 400;
+}
+
+.header-text-logo {
+    font-size: 84px;
+    font-weight: 200;
+    line-height: 1;
+    margin: 20px 0;
+}
+
+.header-text-description {
+    font-size: 24px;
+    font-weight: 200;
+    margin: 0;
+}
+
+.resource-list {
+    margin-top: 40px;
 }

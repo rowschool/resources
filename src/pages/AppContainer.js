@@ -6,7 +6,7 @@ import PropTypes from 'prop-types';
 const AppContainer = function(props) {
     return (
         <div>
-            <h1>Hello World!</h1>
+            <h1>Resource Library</h1>
         </div>
     );
 };
