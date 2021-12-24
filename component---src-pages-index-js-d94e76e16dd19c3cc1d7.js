@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkrow_school_computing_resources=self.webpackChunkrow_school_computing_resources||[]).push([[678,575],{7309:function(e,l,n){n.r(l);var t=n(7294);n(6021);l.default=function(e){return t.createElement("div",null,t.createElement("h1",null,"Hello World!"))}},7704:function(e,l,n){n.r(l);var t=n(7294),u=(n(3935),n(7309));l.default=function(){return t.createElement("div",null,t.createElement(u.default,null))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-d94e76e16dd19c3cc1d7.js.map
