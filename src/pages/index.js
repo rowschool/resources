@@ -21,7 +21,7 @@ const IndexPage = () => (
                     </a>
                 </strong>
                 <br />
-                CDE's Computer Science Resource Bank contains a variety of materials for computer science educators, including standards, curricula, and materials for professional educator development as directed by <a href="https://leg.colorado.gov/bills/hb17-1184" target="_blank" rel="noopener noreferrer">H.B. 17-1884, Modern Technology Education in Public Schools</a>.
+                CDE&apos;s Computer Science Resource Bank contains a variety of materials for computer science educators, including standards, curricula, and materials for professional educator development as directed by <a href="https://leg.colorado.gov/bills/hb17-1184" target="_blank" rel="noopener noreferrer">H.B. 17-1884, Modern Technology Education in Public Schools</a>.
             </li>
             <li>
                 <strong>
@@ -31,6 +31,24 @@ const IndexPage = () => (
                 </strong>
                 <br />
                 Living GoogleDoc of unplugged curricula covering algorithms, events, loops, conditionals, variables, functions, debugging, abstraction, networks and the Internet, and data analysis
+            </li>
+            <li>
+                <strong>
+                    <a rel="noopener noreferrer" target="_blank" href="https://tech.cornell.edu/cs-coaching-toolkit/">
+                        Cornell Tech - CS Coaching Toolkit
+                    </a>
+                </strong>
+                <br />
+                This toolkit consists of a card deck containing over 150 ways for coaches to support CS teacher development. It is aligned with the CSTA CS Teacher Standards. The Computer Science Coaching Toolkit Card Deck was developed to support coaching activities related to Computer Science (CS) instruction in schools, districts, and other programs.
+            </li>
+            <li>
+                <strong>
+                    <a rel="noopener noreferrer" target="_blank" href="https://community.csteachers.org/home">
+                        CSTA Virtual Community
+                    </a>
+                </strong>
+                <br />
+                The CSTA virtual community is a space to connect, engage and share with other CS teachers and advocates. Members are placed into community groups depending on what their professional role is as a CS teacher.
             </li>
         </ul>
     </div>
