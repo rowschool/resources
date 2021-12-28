@@ -50,6 +50,24 @@ const IndexPage = () => (
                 <br />
                 The CSTA virtual community is a space to connect, engage and share with other CS teachers and advocates. Members are placed into community groups depending on what their professional role is as a CS teacher.
             </li>
+            <li>
+                <strong>
+                    <a rel="noopener noreferrer" target="_blank" href="https://docs.google.com/spreadsheets/d/1SA1N1fQkrPkkoTNKXOwm90g7kBZD6BBCN94i0HFlG2c/edit#gid=489597114">
+                        Resource Directory for Online Instruction - Learning Keeps Going
+                    </a>
+                </strong>
+                <br />
+                ISTE & EdSurge are curating a list of free products offered by companies and organizations to support learning during extended school closures. Many of these offers were extended through June 2020 and are no longer available at discounted prices. Search the directory below and contact the company to see which products are offered free of charge.
+            </li>
+            <li>
+                <strong>
+                    <a rel="noopener noreferrer" target="_blank" href="https://docs.google.com/spreadsheets/d/1I1S4Tq9Xy883WtcIPFMdTvOw7SHp9gP8HsNC2I7wwUg/edit#gid=1998323076">
+                        Online CS and Coding Teaching Resources
+                    </a>
+                </strong>
+                <br />
+                This document has been created as a resource for K-12 public school teachers. It represents an effort to build an interdisciplinary resource spreadsheet to assist the teachers to transition to online teaching. It collects links to various tools, blogs, videos, tutorials, etc. that contain information or tools that may be useful for teaching students online. The document is seperated into categories as noted on the tabs. The categories include Math English Language Arts (ELA), Social Studies, Science, Visual Arts, Physical Education (PE), Computer Science, Languages, and more. Each category (tab) provides a list of resources (tools, blogs, videos, tutorials, etc.). Each resource has a title, brief description, appropriate grade level (where applicable), and link to the resource.
+            </li>
         </ul>
     </div>
 );
