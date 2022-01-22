@@ -68,6 +68,16 @@ const IndexPage = () => (
                 <br />
                 This document has been created as a resource for K-12 public school teachers. It represents an effort to build an interdisciplinary resource spreadsheet to assist the teachers to transition to online teaching. It collects links to various tools, blogs, videos, tutorials, etc. that contain information or tools that may be useful for teaching students online. The document is seperated into categories as noted on the tabs. The categories include Math English Language Arts (ELA), Social Studies, Science, Visual Arts, Physical Education (PE), Computer Science, Languages, and more. Each category (tab) provides a list of resources (tools, blogs, videos, tutorials, etc.). Each resource has a title, brief description, appropriate grade level (where applicable), and link to the resource.
             </li>
+            <li>
+                <strong>
+                    <a rel="noopener noreferrer" target="_blank" href="https://ceismc.gatech.edu/STEAMfromADistance">
+                        STEAM from a Distance Education Resources
+                    </a>
+                </strong>
+                <br />
+                &quot;STEAM from a Distance&quot; is a Georgia Tech campus and community collaboration that seeks to help parents and educators to connect and discover STEAM learning experiences and tools for their students at home.
+            </li>
+
         </ul>
     </div>
 );
